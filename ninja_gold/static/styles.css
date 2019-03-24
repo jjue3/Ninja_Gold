@@ -1,0 +1,27 @@
+.container{
+	width: 782px;
+	height: auto;
+	border: 1px solid black;
+	}
+.box{
+	height: 150px;
+	width: 150px;
+	border: 1px solid black;
+	margin: 10px;
+	margin-bottom: 0px;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	}
+.activitybox{
+	height: 150px;
+	width: 758px;
+	border: 1px solid black;
+	margin: 10px;
+	margin-top: 0px;
+	}
+p{
+	margin-left: 10px;
+	margin-bottom: 0px;
+	}
+
